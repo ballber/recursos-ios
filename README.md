@@ -19,6 +19,7 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 
 
 ### Tutorials and OnlineCourses
+
 * How To Make Dynamic ScrollView - Swift: [Video](https://www.youtube.com/watch?v=szqBQ6lNilI)
 * Create a UIScrollView using Auto Layout in Storyboard: [Video](https://www.youtube.com/watch?v=nfHBCQ3c4Mg)
 *
@@ -35,3 +36,8 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 ### 📱 Demos
 
 * Run native mobile apps in your browser: [Appetize.io](https://appetize.io)
+
+### :newspaper: Stay updated
+
+* A hand-picked round up of the best iOS development links every week. Curated by Dave Verwer and published every Friday: [IOS Dev Weekly](https://iosdevweekly.com/)
+* Of course: [Apple News](https://developer.apple.com/news/)
