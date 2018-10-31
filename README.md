@@ -30,12 +30,10 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 
 ### iOS Developer Doc
 * Using Segues
-[Video](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html#//apple_ref/doc/uid/TP40007457-CH15-SW1)
-
-* ViewController [Video](
+[Link](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html#//apple_ref/doc/uid/TP40007457-CH15-SW1)
+* ViewController [Link](
 https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/index.html)
-
-* UINavigationController[Video](
+* UINavigationController[Link](
 https://developer.apple.com/documentation/uikit/uinavigationcontroller)
 
 
