@@ -7,7 +7,8 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 * Wiki UOC : [Wiki](http://cv.uoc.edu/webapps/xwiki/wiki/matm0661es/login/XWiki/XWikiLogin?srid=fdoAt9DJ&xredirect=%2Fwebapps%2Fxwiki%2Fwiki%2Fmatm0661es%2Fview%2FMain%2FWebHome%3Fsrid%3DfdoAt9DJ)
 * Trello: software de administración de proyectos con interfaz web, cliente para iOS y para organizar proyectos: [Trello](https://trello.com)
 * Slack: collaboration hub that brings the people together with all information and tools to get work done: [Slack](https://slack.com/)
-* Vídeos pel curs Desenvolupament d’aplicacions per a dispositius iOS: [Videos](https://almata.github.io/SOCiOS/)
+* Vídeos pel curs Desenvolupament d’aplicacions per a dispositius iOS (Albert Mata - Tardor 2018): [Videos](https://almata.github.io/SOCiOS/)
+
 ### Events & Community
 
 * Eventbrite: Discover great events about swift and iOS: [Link](https://www.eventbrite.com/)
