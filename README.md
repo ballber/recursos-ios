@@ -1,6 +1,8 @@
 # Recursos-ios
 Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 
+![alt ios](http://www.casinonewsdaily.com/wp-content/uploads/2015/10/ios-logo-300x146.png)
+
 ### Herramientas UOC
 
 * Campus UOC (Universitat Oberta de Catalunya): [Campus](http://www.uoc.edu/portal/ca/index.html)
