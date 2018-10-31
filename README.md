@@ -11,7 +11,7 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 * Slack: collaboration hub that brings the people together with all information and tools to get work done: [Slack](https://slack.com/)
 * Vídeos pel curs Desenvolupament d’aplicacions per a dispositius iOS (Albert Mata - Tardor 2018): [Videos](https://almata.github.io/SOCiOS/)
 * MyPlaces-v1 (projecte base PLA2) by Albert Mata : [Link](https://github.com/almata/MyPlaces-v1)
-* Infos sobre el curs Desenvolupament d'IOS [Link](http://serveiocupacio.gencat.cat/ca/soc/centres-dinnovacio-i-formacio-ocupacional-cifo/cifo-lhospitalet-de-llobregat/pqtm/desenvolupador-d-ios/)
+* Info sobre el curs Desenvolupament d'IOS [Link](http://serveiocupacio.gencat.cat/ca/soc/centres-dinnovacio-i-formacio-ocupacional-cifo/cifo-lhospitalet-de-llobregat/pqtm/desenvolupador-d-ios/)
 
 ### Events & Community
 
