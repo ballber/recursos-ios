@@ -1,7 +1,17 @@
 # Recursos-ios
 Recursos on-line per al desenvolupament de l'aplicació MyPlaces
-### Herramientas UOC
 
+### iOS forums 
+* [Link(https://developer.apple.com/support/app-store)]
+* [Link(https://developer.android.com/about/dashboards)]
+* Video iOS_Development-Quick Start:Application Life Cycle:    [Link](https://www.youtube.com/watch?v=TcVhdq5U7Ps&feature=youtu.be)
+* Appcoda blog-book. Build your 1st app:   [Link](https://www.appcoda.com/learnswift/build-your-first-app.html)
+Apple HIG Icon & Images:       [Link](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/custom-icons/)
+
+* Technical Q&A QA1686  App Icons on iPhone:      [Link](https://developer.apple.com/library/archive/qa/qa1686/_index.html )
+
+
+### Herramientas UOC
 * Campus UOC (Universitat Oberta de Catalunya): [Campus](http://www.uoc.edu/portal/ca/index.html)
 * Wiki UOC : [Wiki](http://cv.uoc.edu/webapps/xwiki/wiki/matm0661es/login/XWiki/XWikiLogin?srid=fdoAt9DJ&xredirect=%2Fwebapps%2Fxwiki%2Fwiki%2Fmatm0661es%2Fview%2FMain%2FWebHome%3Fsrid%3DfdoAt9DJ)
 * Trello: software de administración de proyectos con interfaz web, cliente para iOS y para organizar proyectos: [Trello](https://trello.com)
