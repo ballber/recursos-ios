@@ -27,7 +27,16 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 
 * How To Make Dynamic ScrollView - Swift: [Video](https://www.youtube.com/watch?v=szqBQ6lNilI)
 * Create a UIScrollView using Auto Layout in Storyboard: [Video](https://www.youtube.com/watch?v=nfHBCQ3c4Mg)
-*
+
+### iOS Developer Doc
+* Using Segues
+[Video](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html#//apple_ref/doc/uid/TP40007457-CH15-SW1)
+
+*ViewController [Video](
+https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/index.html)
+
+*UINavigationController[Video](
+https://developer.apple.com/documentation/uikit/uinavigationcontroller)
 
 
 
