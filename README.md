@@ -45,6 +45,7 @@ https://developer.apple.com/documentation/uikit/uinavigationcontroller)
 
 * Chuleta de GitHub sobre los comandos más utilizados: [GitHub Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * Chuleta muy visual sobre los comandos más útiles en cada caso: [Andrew Peterson Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+* Learn Git on the Command Line : [Video Youtube](https://www.youtube.com/playlist?list=PLyCj4RCToz5DRDx3sJ4iW9i8D2G8OdHYH)
 
 ### 📱 Demos
 
