@@ -10,6 +10,8 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 * Trello: software de administración de proyectos con interfaz web, cliente para iOS y para organizar proyectos: [Trello](https://trello.com)
 * Slack: collaboration hub that brings the people together with all information and tools to get work done: [Slack](https://slack.com/)
 * Vídeos pel curs Desenvolupament d’aplicacions per a dispositius iOS (Albert Mata - Tardor 2018): [Videos](https://almata.github.io/SOCiOS/)
+* MyPlaces-v1 (projecte base PLA2) by Albert Mata : [Link](https://github.com/almata/MyPlaces-v1)
+* Curs Desenvolupament IOS [Link](http://serveiocupacio.gencat.cat/ca/soc/centres-dinnovacio-i-formacio-ocupacional-cifo/cifo-lhospitalet-de-llobregat/pqtm/desenvolupador-d-ios/)
 
 ### Events & Community
 
@@ -44,8 +46,9 @@ https://developer.apple.com/documentation/uikit/uinavigationcontroller)
 * Define yout data model [Link](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/DefineYourDataModel.html)
 * UIStackView [Link](https://developer.apple.com/documentation/uikit/uistackview)
 * UIImageView [Link](https://developer.apple.com/documentation/uikit/uiimageview)
+* Array [Link](https://developer.apple.com/documentation/swift/array)
 * Swift 4 - Getting started : [Link](https://swift.org/getting-started/)
-
+* Swift Book : [Link](https://docs.swift.org/swift-book/)
 ### News, Newsletters & Podcast
 
 ### ⏱ Control de versiones (Git)
