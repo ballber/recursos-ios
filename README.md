@@ -32,15 +32,19 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 * Create a UIScrollView using Auto Layout in Storyboard: [Video](https://www.youtube.com/watch?v=nfHBCQ3c4Mg)
 * TFM Cursos [Github](https://github.com/almata/TFMRecursos)
 
-### iOS Developer Doc
+### iOS Developer Official Doc
 * Using Segues
 [Link](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html#//apple_ref/doc/uid/TP40007457-CH15-SW1)
+* Understanding Auto Layout [Link](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)
 * ViewController [Link](
 https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/index.html)
 * UINavigationController[Link](
 https://developer.apple.com/documentation/uikit/uinavigationcontroller)
-
-
+* Views and controls [Link](https://developer.apple.com/documentation/uikit/views_and_controls)
+* Define yout data model [Link](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/DefineYourDataModel.html)
+* UIStackView [Link](https://developer.apple.com/documentation/uikit/uistackview)
+* UIImageView [Link](https://developer.apple.com/documentation/uikit/uiimageview)
+* Swift 4 - Getting started : [Link](https://swift.org/getting-started/)
 
 ### News, Newsletters & Podcast
 
